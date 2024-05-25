@@ -7,6 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReadDataFromExcel", "ReadDa
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7E5EEF8E-A0C6-489F-8D78-7691007C4F3D}"
 	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
 		appsettings.json = appsettings.json
 	EndProjectSection
 EndProject
